@@ -187,17 +187,18 @@ a:focus {
 }
 
 .hero_detail-box {
-  width: 40%;
+  width: 50%;
 }
 
 .hero_img-container {
-  width: 68%;
+  width: 55%;
   margin-right: -8%;
   margin-top: -5%;
 }
 
 .hero_img-container img {
   width: 100%;
+  margin-left: 0rem;
 }
 
 .hero_detail-box {
